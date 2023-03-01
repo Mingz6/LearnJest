@@ -45,3 +45,8 @@ await waitFor(() => {
     expect(container.getElementsByClassName("ant-skeleton").length).toBe(1);
     console.log(prettyDOM(myContainer));
 });
+
+How to test onchange:
+if (values.hasOwnProperty("<customTesting>")) ==> Submit not testing.
+
+
