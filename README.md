@@ -8,7 +8,7 @@ https://testing-library.com/docs/queries/about/
 
 
 vite Test:
-npx nx run <ProjectName>:test --watch --ui
+npx nx run \<ProjectName\>:test --watch --ui
 
 JEST code example:
 screen.debug(undefined, 9999);\
