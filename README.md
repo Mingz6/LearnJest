@@ -7,6 +7,9 @@ https://jestjs.io/blog/2018/05/29/jest-23-blazing-fast-delightful-testing#snapsh
 https://testing-library.com/docs/queries/about/
 
 
+vite Test:
+npx nx run <ProjectName>:test --watch --ui
+
 JEST code example:
 screen.debug(undefined, 9999);\
 npm run test -- -u\
